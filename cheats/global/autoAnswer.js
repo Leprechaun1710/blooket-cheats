@@ -45,4 +45,4 @@
         let iframe = document.querySelector("iframe");
         iframe.contentWindow.alert("It seems the GitHub is either blocked or down.\n\nIf it's NOT blocked, join the Discord server for updates\nhttps://discord.gg/jHjGrrdXP6")
     }
-})();
+})(4000);
